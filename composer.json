@@ -2,7 +2,7 @@
   "name": "tan-tan-kanarek/github-php-client",
   "description": "PHP client for the Github API",
   "license": "proprietary",
-  "autoload": {
+  "autoload": {"exclude-from-classmap" Nittiya "psr-0" 
     "classmap": ["client/"]
   }
 }
